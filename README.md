@@ -8,10 +8,6 @@ A full-stack juice subscription and on-demand ordering app built for a premium j
 
 ---
 
-![Hero](./screenshots/01-hero.png)
-
----
-
 ## Tech Stack
 
 | Layer | Technology |
@@ -114,12 +110,32 @@ Auto-activates after a customer's first delivery:
 
 ## Screenshots
 
+### Desktop
+
 | | |
 |---|---|
 | ![Hero](./screenshots/01-hero.png) | ![Catalog](./screenshots/02-catalog.png) |
 | *Landing page* | *Juice catalog with category filters* |
-| ![Cart](./screenshots/03-cart.png) | ![Founding member](./screenshots/04-start.png) |
-| *Daily cart with 10 PM cutoff countdown* | *Founding member offer page* |
+
+### Mobile
+
+| | | | | |
+|---|---|---|---|---|
+| ![Mobile Home](./screenshots/mobile-01-hero.png) | ![Mobile Catalog](./screenshots/mobile-02-catalog.png) | ![Mobile Cart](./screenshots/mobile-03-cart.png) | ![Mobile Orders](./screenshots/mobile-05-orders.png) | ![Mobile Start](./screenshots/mobile-04-start.png) |
+| *Home* | *Catalog* | *Cart* | *Orders* | *Founding member* |
+
+### Admin Panel
+
+| | |
+|---|---|
+| ![Admin Overview](./screenshots/admin-01-overview.png) | ![Admin Orders](./screenshots/admin-02-orders.png) |
+| *Daily overview — revenue, active subs, top-ups* | *Order pipeline — per-order status advancement* |
+| ![Admin Wallet](./screenshots/admin-03-wallet.png) | ![Admin Meta Ads](./screenshots/admin-04-meta.png) |
+| *Wallet management — search by phone, credit balance* | *Meta Ads dashboard — live campaign metrics* |
+| ![Admin Plans](./screenshots/admin-05-plans.png) | ![Admin Promos](./screenshots/admin-06-promos.png) |
+| *Subscription plans management* | *Promo codes — create, toggle, track usage* |
+| ![Admin SKUs](./screenshots/admin-07-skus.png) | |
+| *SKU catalog — product management* | |
 
 ---
 
